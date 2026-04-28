@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Felipe%20Kitamoto%20Amaral&fontSize=60&animation=fadeIn&fontAlignY=40" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0077B5&height=150&section=header&text=Felipe%20Kitamoto%20Amaral&fontSize=50&animation=fadeIn&fontAlignY=50" alt="Header">
 </p>
 
 <p align="center">
