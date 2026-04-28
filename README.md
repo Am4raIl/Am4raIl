@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0077B5&height=120&section=header&text=Felipe%20Kitamoto%20Amaral&fontSize=45&animation=scaleIn&fontAlignY=50" alt="Header">
-</p>
+<p align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Felipe%20Kitamoto&fontSize=60&animation=fadeIn&fontAlignY=40" alt="Header">
+</p> 
 
 <p align="center">
   <b>Desenvolvedor FullStack | Estudante de Ciência da Computação (UFES)</b>
