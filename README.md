@@ -46,7 +46,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
       <a href="https://github.com/Am4raIl/ps-desafio-2026-1">
         <img src="https://img.shields.io/badge/FullStack--PHP-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Projeto 3">
       </a>
-      <br><b>Store (Processo Seletivo)</b>
+      <br><b>Fox Store (Processo Seletivo)</b>
       <br><sub>E-commerce de artigos esportivos feito com Laravel, React e MySQL.</sub>
     </td>
   </tr>
