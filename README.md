@@ -77,7 +77,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Am4raIl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages">
+  <img width="48%" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages">
 </p>
 
 ---
