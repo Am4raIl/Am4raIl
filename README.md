@@ -3,7 +3,9 @@
 </p> 
 
 <p align="center">
-  <b>Desenvolvedor FullStack | Estudante de Ciência da Computação (UFES)</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+FullStack;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+(UFES)" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -77,7 +79,6 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Am4raIl&theme=tokyonight" width="100%" alt="Detalhes do Perfil">
 </p>
 
 ---
@@ -87,5 +88,8 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-kitamoto-amaral/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:felipe.k.amaral.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
