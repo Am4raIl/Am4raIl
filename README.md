@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Idade-22_anos-blue?style=flat-square" alt="Idade">
-  <img src="https://img.shields.io/badge/Status-Disponível_para_Projetos-green?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Idade-22_anos-blue?style=for-the-badge" alt="Idade">
+  <img src="https://img.shields.io/badge/Status-Disponível_para_Projetos-green?style=for-the-badge" alt="Status">
 </p>
 
 ---
@@ -48,7 +48,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
       <a href="https://github.com/Am4raIl/ps-desafio-2026-1">
         <img src="https://img.shields.io/badge/FullStack--PHP-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Projeto 3">
       </a>
-      <br><b>Fox Store (Processo Seletivo)</b>
+      <br><b>Fox Store</b>
       <br><sub>E-commerce de artigos esportivos feito com Laravel, React e MySQL.</sub>
     </td>
   </tr>
@@ -60,24 +60,44 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
 
 **No dia a dia utilizo:**
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="NextJS">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&radius=8" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&radius=8" alt="Laravel">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&radius=8" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&radius=8" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&radius=8" alt="React">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&radius=8" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&radius=8" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&radius=8" alt="Docker">
 </p>
 
 **Também tenho experiência/contato com:**
-* **Mobile:** React Native, Dart (Flutter).
-* **Linguagens:** Java, C.
-* **Dados:** MySQL, OracleSQL, Firebase.
+
+**Mobile:**<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&radius=8" alt="React Native">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&radius=8" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&radius=8" alt="Flutter">
+</p>
+
+**Linguagens & Frameworks:**<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&radius=8" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&radius=8" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&radius=8" alt="C">
+</p>
+
+**Dados:**<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&radius=8" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&radius=8" alt="OracleSQL">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&radius=8" alt="Firebase">
+</p>
 
 ---
 
 ### 📊 Atividade no GitHub
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages">
 </p>
 
