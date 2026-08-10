@@ -45,11 +45,11 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
       <br><sub>Modelo preditivo para analisar e classificar perfis financeiros.</sub>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <a href="https://github.com/Am4raIl/ps-desafio-2026-1">
+      <a href="https://github.com/Am4raIl/gymflow">
         <img src="https://img.shields.io/badge/FullStack--PHP-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Projeto 3">
       </a>
-      <br><b>Fox Store</b>
-      <br><sub>E-commerce de artigos esportivos feito com Laravel, React e MySQL.</sub>
+      <br><b>GymFlow</b>
+      <br><sub>Sistema completo para gestão de academias com Laravel 13 e Next.js 16.</sub>
     </td>
   </tr>
 </table>
