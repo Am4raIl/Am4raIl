@@ -107,9 +107,6 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&radius=8" alt="Firebase">
 </p>
 
-<p align="center">
-  <img src="./assets/Loading Bar.gif" width="100%" alt="divisor">
-</p>
 
 ### 📊 Atividade no GitHub
 
