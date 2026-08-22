@@ -113,7 +113,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
 
 ### 📊 Atividade no GitHub
 
-<img align="right" src="./assets/Sprite Gengar.gif" width="400" alt="Gengar Sprite">
+<img align="right" src="./assets/Sprite Gengar.gif" width="500" alt="Gengar Sprite">
 
 <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" width="480">
 
