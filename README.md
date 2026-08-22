@@ -13,7 +13,13 @@
   <img src="https://img.shields.io/badge/Status-Disponível_para_Projetos-green?style=for-the-badge" alt="Status">
 </p>
 
----
+<p align="center">
+  <img src="./assets/loading_bar.gif" width="100%" alt="divisor">
+</p>
+
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ### ☕ Sobre Mim
 
@@ -23,8 +29,18 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
 * 💻 Desenvolvo focado em criar códigos limpos e funcionais, do banco de dados ao front-end.
 * 🚀 Gosto de estudar novas tecnologias, principalmente voltadas para IA e automação.
 * 🎓 Tenho uma base acadêmica sólida pela UFES, aplicada em projetos práticos.
+</br>
 
----
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="./assets/Pixel Art Boneco.png" width="380" alt="Pixel Art Boneco">
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/Loading Bar.gif" width="100%" alt="divisor">
+</p>
 
 ### 🚀 Projetos em Destaque
 
@@ -53,8 +69,6 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
     </td>
   </tr>
 </table>
-
----
 
 ### 🛠️ Tecnologias
 
@@ -93,15 +107,17 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&radius=8" alt="Firebase">
 </p>
 
----
+<p align="center">
+  <img src="./assets/Loading Bar.gif" width="100%" alt="divisor">
+</p>
 
 ### 📊 Atividade no GitHub
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages">
-</p>
+<img align="right" src="./assets/Sprite Gengar.gif" width="500" alt="Gengar Sprite">
 
----
+<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" width="480">
+
+<br clear="right">
 
 ### 📫 Vamos conversar?
 
