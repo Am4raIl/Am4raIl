@@ -1,3 +1,4 @@
+
 <p align="center">  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Felipe%20Kitamoto%20Amaral&fontSize=60&animation=fadeIn&fontAlignY=40" alt="Header">
 </p> 
@@ -79,9 +80,14 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&radius=8" alt="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&radius=8" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&radius=8" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&radius=8" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&radius=8" alt="Python">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&radius=8" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&radius=8" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&radius=8" alt="Docker">
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white&radius=8" alt="Podman">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&radius=8" alt="Linux">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&radius=8" alt="Arch Linux">
 </p>
 
 **Também tenho experiência/contato com:**
@@ -97,6 +103,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&radius=8" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&radius=8" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&radius=8" alt="JavaScript">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&radius=8" alt="C">
 </p>
 
@@ -106,7 +113,6 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&radius=8" alt="OracleSQL">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&radius=8" alt="Firebase">
 </p>
-
 
 ### 📊 Atividade no GitHub
 
@@ -120,9 +126,9 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
 
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-kitamoto-amaral/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:felipe.k.amaral.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
