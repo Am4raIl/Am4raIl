@@ -122,9 +122,11 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
 
 <br clear="right">
 
+<div align="center">
+
 ### 📫 Vamos conversar?
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/felipe-kitamoto-amaral/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
@@ -132,3 +134,5 @@ Sou estudante de Ciência da Computação na Universidade Federal do Espírito S
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
+
+</div>
