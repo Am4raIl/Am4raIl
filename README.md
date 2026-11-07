@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/Status-Disponível_para_Projetos-green?style=for-the-badge" alt="Status">
 </p>
 
-<p align="center">
-  <img width="1192" height="88" alt="loading_bar_felipe_wide" src="https://github.com/user-attachments/assets/7445ace2-af23-4567-9ae0-265dd5e9087a" />
-</p>
-
 ### ☕ Sobre Mim
 
 Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Universidade Federal do Espírito Santo (UFES)** e apaixonado por tecnologia e desenvolvimento de software. Gosto de transformar ideias em **soluções digitais eficientes, criativas e funcionais**, com foco especial no desenvolvimento **Web, Mobile e integrações com Inteligência Artificial**. Estou sempre em busca de novos desafios e oportunidades de aprendizado, aprimorando meus conhecimentos em **arquitetura de software, ciência de dados e automação**. Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas reais e criar soluções que façam a diferença.
@@ -35,7 +31,7 @@ Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Unive
 </br>
 
 <p align="center">
-  <img width="800" height="100" alt="loading_bar_felipe" src="https://github.com/user-attachments/assets/f23777d3-cfa4-42a8-a155-e7d758c0db01" />
+  <img width="1192" height="88" alt="loading_bar_felipe_wide" src="https://github.com/user-attachments/assets/7445ace2-af23-4567-9ae0-265dd5e9087a" />
 </p>
 
 ### 🚀 Projetos em Destaque
