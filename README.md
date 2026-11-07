@@ -1,4 +1,5 @@
-<img width="3000" height="1000" alt="banner-github-felipe-street-transparente@2x(1)" src="https://github.com/user-attachments/assets/b639beec-5ca8-4640-83f2-d7e0794c1eaf" />
+<img width="3000" height="1000" alt="banner_felipe_8bit_transparente" src="https://github.com/user-attachments/assets/5f72fee9-965b-4c56-97af-633d62f399ad" />
+
 
 </br>
 </br>
@@ -23,11 +24,11 @@ Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Unive
 
 **Um pouco mais sobre mim:**
 
-- 💻 **Desenvolvimento Full Stack:** Tenho interesse em todas as camadas de uma aplicação, desde a **modelagem de bancos de dados, desenvolvimento de APIs REST e implementação de regras de negócio** até a construção de interfaces modernas e responsivas. Busco aplicar princípios de código limpo, modularização e boas práticas de desenvolvimento para criar sistemas eficientes, seguros e de fácil manutenção.
+- 💻 **Desenvolvimento Full Stack:** Atuação completa no ciclo de desenvolvimento de software - da modelagem de bancos de dados relacionais e construção de APIs REST eficientes à criação de interfaces modernas, responsivas e intuitivas. Foco em código limpo, arquitetura modular e boas práticas para entregar sistemas seguros e de fácil manutenção.
 
-- 🏗️ **Engenharia de Software e Inovação:** Procuro aprofundar meus conhecimentos em **arquitetura de sistemas, orientação a objetos, padrões de projeto, estruturas de dados e algoritmos**, priorizando soluções escaláveis e bem estruturadas. Também tenho grande interesse em **Inteligência Artificial, automação de processos e integração de APIs**, explorando como essas tecnologias podem otimizar tarefas e resolver problemas complexos.
+- 🏗️ **Engenharia de Software e Inovação:** Pesquisa e aplicação constante de arquitetura de sistemas, orientação a objetos, padrões de projeto, estruturas de dados e algoritmos para desenvolver soluções escaláveis. Interesse ativo em Inteligência Artificial, automação de processos e integração de APIs para otimizar fluxos de trabalho e resolver problemas complexos.
 
-- 🎓 **Formação Acadêmica e Evolução Contínua:** Minha formação em **Ciência da Computação na UFES** proporciona uma **base teórica sólida em computação, matemática, lógica e fundamentos da engenharia de software**, essencial para compreender problemas complexos e desenvolver soluções bem fundamentadas. Busco conectar esse conhecimento acadêmico à prática por meio de projetos e desafios técnicos, aprimorando minhas habilidades em **resolução de problemas, otimização de algoritmos, testes de software e análise de desempenho**, sempre valorizando o aprendizado contínuo e a evolução profissional.
+- 🎓 **Base Acadêmica Sólida e Evolução Contínua:** Base teórica e científica sólida em computação, resolução de problemas, lógica e engenharia de software construída no curso de Ciência da Computação da UFES. Conexão contínua entre o conhecimento acadêmico e a prática de mercado, aprimorando habilidades em matemática, otimização de desempenho, testes e aprendizado contínuo.
 </br>
 
 <p align="center">
