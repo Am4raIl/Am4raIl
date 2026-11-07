@@ -109,7 +109,7 @@ Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Unive
 
 <img align="right" src="./assets/Sprite Gengar.gif" width="400" alt="Gengar Sprite">
 
-<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=prussian&hide_border=true&hide=Dart&langs_count=7" alt="Top Languages" width="400">
+[<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=prussian&hide_border=true&hide=Dart&langs_count=7" alt="Top Languages" width="400">](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=prussian&hide_border=true&hide=dart&langs_count=7&cache=1)
 
 <br clear="right">
 
