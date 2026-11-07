@@ -35,7 +35,7 @@ Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Unive
 </br>
 
 <p align="center">
-  <img src="./assets/Loading Bar.gif" width="100%" alt="divisor">
+  <img width="800" height="100" alt="loading_bar_felipe" src="https://github.com/user-attachments/assets/f23777d3-cfa4-42a8-a155-e7d758c0db01" />
 </p>
 
 ### 🚀 Projetos em Destaque
