@@ -1,5 +1,4 @@
-<img width="3000" height="1000" alt="banner_felipe_8bit_transparente" src="https://github.com/user-attachments/assets/5f72fee9-965b-4c56-97af-633d62f399ad" />
-
+<img width="3000" height="1000" alt="banner_hero_animado" src="https://github.com/user-attachments/assets/0b6b4970-863a-4140-85f0-05aa93b659db" />
 
 </br>
 </br>
@@ -110,7 +109,7 @@ Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Unive
 
 <img align="right" src="./assets/Sprite Gengar.gif" width="400" alt="Gengar Sprite">
 
-<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" width="400">
+<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Am4raIl&layout=compact&theme=prussian&hide_border=true&langs_count=7" alt="Top Languages" width="400">
 
 <br clear="right">
 
