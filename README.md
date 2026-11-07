@@ -1,13 +1,17 @@
+<img width="3000" height="1000" alt="banner-github-felipe-street-transparente@2x" src="https://github.com/user-attachments/assets/9881bc92-5cdb-467f-baa1-d82b5ab507ad" />
 
-<p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Felipe%20Kitamoto%20Amaral&fontSize=60&animation=fadeIn&fontAlignY=40" alt="Header">
-</p> 
+
+</br>
+</br>
+</br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+FullStack;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+(UFES)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=FullStack+Developer;Mobile+Developer;Software+Engineer" alt="Typing SVG" />
   </a>
 </p>
+
+</br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Idade-22_anos-blue?style=for-the-badge" alt="Idade">
@@ -18,26 +22,20 @@
   <img src="./assets/loading_bar.gif" width="100%" alt="divisor">
 </p>
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 ### ☕ Sobre Mim
 
-Sou estudante de Ciência da Computação na Universidade Federal do Espírito Santo (UFES). Sou apaixonado por transformar ideias em soluções digitais eficientes, com foco especial no ecossistema Web, Mobile e Integrações com IA. Atualmente, busco aprimorar minhas habilidades em arquitetura de sistemas e ciência de dados.
+Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Universidade Federal do Espírito Santo (UFES)** e apaixonado por tecnologia e desenvolvimento de software. Gosto de transformar ideias em **soluções digitais eficientes, criativas e funcionais**, com foco especial no desenvolvimento **Web, Mobile e integrações com Inteligência Artificial**.
+
+Estou sempre em busca de novos desafios e oportunidades de aprendizado, aprimorando meus conhecimentos em **arquitetura de software, ciência de dados e automação**. Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas reais e criar soluções que façam a diferença.
 
 **Um pouco mais sobre mim:**
-* 💻 Desenvolvo focado em criar códigos limpos e funcionais, do banco de dados ao front-end.
-* 🚀 Gosto de estudar novas tecnologias, principalmente voltadas para IA e automação.
-* 🎓 Tenho uma base acadêmica sólida pela UFES, aplicada em projetos práticos.
-</br>
 
-</td>
-<td width="35%" align="center" valign="middle">
-<img src="./assets/Pixel Art Boneco.png" width="380" alt="Pixel Art Boneco">
-</td>
-</tr>
-</table>
+- 💻 **Desenvolvimento Full Stack:** Tenho interesse em todas as camadas de uma aplicação, desde a **modelagem de bancos de dados, desenvolvimento de APIs REST e implementação de regras de negócio** até a construção de interfaces modernas e responsivas. Busco aplicar princípios de código limpo, modularização e boas práticas de desenvolvimento para criar sistemas eficientes, seguros e de fácil manutenção.
+
+- 🏗️ **Engenharia de Software e Inovação:** Procuro aprofundar meus conhecimentos em **arquitetura de sistemas, orientação a objetos, padrões de projeto, estruturas de dados e algoritmos**, priorizando soluções escaláveis e bem estruturadas. Também tenho grande interesse em **Inteligência Artificial, automação de processos e integração de APIs**, explorando como essas tecnologias podem otimizar tarefas e resolver problemas complexos.
+
+- 🎓 **Formação e Evolução Contínua:** Como estudante da UFES, busco conectar os fundamentos da **Ciência da Computação** com sua aplicação em projetos práticos. Valorizo o aprendizado constante e procuro aprimorar minhas habilidades em **resolução de problemas, otimização de código, testes de software e análise de desempenho**, sempre buscando evoluir tecnicamente e acompanhar as transformações da área de tecnologia.
+</br>
 
 <p align="center">
   <img src="./assets/Loading Bar.gif" width="100%" alt="divisor">
