@@ -1,5 +1,4 @@
-<img width="3000" height="1000" alt="banner-github-felipe-street-transparente@2x" src="https://github.com/user-attachments/assets/9881bc92-5cdb-467f-baa1-d82b5ab507ad" />
-
+<img width="3000" height="1000" alt="banner-github-felipe-street-transparente@2x(1)" src="https://github.com/user-attachments/assets/b639beec-5ca8-4640-83f2-d7e0794c1eaf" />
 
 </br>
 </br>
@@ -24,9 +23,7 @@
 
 ### ☕ Sobre Mim
 
-Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Universidade Federal do Espírito Santo (UFES)** e apaixonado por tecnologia e desenvolvimento de software. Gosto de transformar ideias em **soluções digitais eficientes, criativas e funcionais**, com foco especial no desenvolvimento **Web, Mobile e integrações com Inteligência Artificial**.
-
-Estou sempre em busca de novos desafios e oportunidades de aprendizado, aprimorando meus conhecimentos em **arquitetura de software, ciência de dados e automação**. Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas reais e criar soluções que façam a diferença.
+Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Universidade Federal do Espírito Santo (UFES)** e apaixonado por tecnologia e desenvolvimento de software. Gosto de transformar ideias em **soluções digitais eficientes, criativas e funcionais**, com foco especial no desenvolvimento **Web, Mobile e integrações com Inteligência Artificial**. Estou sempre em busca de novos desafios e oportunidades de aprendizado, aprimorando meus conhecimentos em **arquitetura de software, ciência de dados e automação**. Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas reais e criar soluções que façam a diferença.
 
 **Um pouco mais sobre mim:**
 
@@ -34,7 +31,7 @@ Estou sempre em busca de novos desafios e oportunidades de aprendizado, aprimora
 
 - 🏗️ **Engenharia de Software e Inovação:** Procuro aprofundar meus conhecimentos em **arquitetura de sistemas, orientação a objetos, padrões de projeto, estruturas de dados e algoritmos**, priorizando soluções escaláveis e bem estruturadas. Também tenho grande interesse em **Inteligência Artificial, automação de processos e integração de APIs**, explorando como essas tecnologias podem otimizar tarefas e resolver problemas complexos.
 
-- 🎓 **Formação e Evolução Contínua:** Como estudante da UFES, busco conectar os fundamentos da **Ciência da Computação** com sua aplicação em projetos práticos. Valorizo o aprendizado constante e procuro aprimorar minhas habilidades em **resolução de problemas, otimização de código, testes de software e análise de desempenho**, sempre buscando evoluir tecnicamente e acompanhar as transformações da área de tecnologia.
+- 🎓 **Formação Acadêmica e Evolução Contínua:** Minha formação em **Ciência da Computação na UFES** proporciona uma **base teórica sólida em computação, matemática, lógica e fundamentos da engenharia de software**, essencial para compreender problemas complexos e desenvolver soluções bem fundamentadas. Busco conectar esse conhecimento acadêmico à prática por meio de projetos e desafios técnicos, aprimorando minhas habilidades em **resolução de problemas, otimização de algoritmos, testes de software e análise de desempenho**, sempre valorizando o aprendizado contínuo e a evolução profissional.
 </br>
 
 <p align="center">
