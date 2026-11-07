@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/loading_bar.gif" width="100%" alt="divisor">
+  <img width="1192" height="88" alt="loading_bar_felipe_wide" src="https://github.com/user-attachments/assets/7445ace2-af23-4567-9ae0-265dd5e9087a" />
 </p>
 
 ### ☕ Sobre Mim
