@@ -121,14 +121,16 @@ Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Unive
 
 ---
 
+<div align="center">
+
 ### 📫 Vamos conversar?
 
 <p>
   <a href="https://www.linkedin.com/in/felipe-kitamoto-amaral/" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:felipe.k.amaral.dev@gmail.com" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" alt="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
 
