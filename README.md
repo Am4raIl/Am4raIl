@@ -1,4 +1,3 @@
-<img width="118" height="30" alt="podman-m3" src="https://github.com/user-attachments/assets/2ee88625-64e6-4013-b74e-d0e28af1b17f" />
 <img width="3000" height="1000" alt="banner_hero_animado" src="https://github.com/user-attachments/assets/0b6b4970-863a-4140-85f0-05aa93b659db" />
 
 <br>
