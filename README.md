@@ -1,8 +1,9 @@
+<img width="118" height="30" alt="podman-m3" src="https://github.com/user-attachments/assets/2ee88625-64e6-4013-b74e-d0e28af1b17f" />
 <img width="3000" height="1000" alt="banner_hero_animado" src="https://github.com/user-attachments/assets/0b6b4970-863a-4140-85f0-05aa93b659db" />
 
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +11,7 @@
   </a>
 </p>
 
-</br>
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Idade-22_anos-blue?style=for-the-badge" alt="Idade">
@@ -28,7 +29,8 @@ Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Unive
 - 🏗️ **Engenharia de Software e Inovação:** Pesquisa e aplicação constante de arquitetura de sistemas, orientação a objetos, padrões de projeto, estruturas de dados e algoritmos para desenvolver soluções escaláveis. Interesse ativo em Inteligência Artificial, automação de processos e integração de APIs para otimizar fluxos de trabalho e resolver problemas complexos.
 
 - 🎓 **Base Acadêmica Sólida e Evolução Contínua:** Base teórica e científica sólida em computação, resolução de problemas, lógica e engenharia de software construída no curso de Ciência da Computação da UFES. Conexão contínua entre o conhecimento acadêmico e a prática de mercado, aprimorando habilidades em matemática, otimização de desempenho, testes e aprendizado contínuo.
-</br>
+
+<br>
 
 <p align="center">
   <img width="1192" height="88" alt="loading_bar_felipe_wide" src="https://github.com/user-attachments/assets/7445ace2-af23-4567-9ae0-265dd5e9087a" />
@@ -65,44 +67,49 @@ Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Unive
 ### 🛠️ Tecnologias
 
 **No dia a dia utilizo:**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&radius=8" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&radius=8" alt="Laravel">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&radius=8" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&radius=8" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&radius=8" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&radius=8" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&radius=8" alt="Python">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&radius=8" alt="MySQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&radius=8" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&radius=8" alt="Docker">
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white&radius=8" alt="Podman">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&radius=8" alt="Linux">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&radius=8" alt="Arch Linux">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg" alt="PHP">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Laravel/laravel2.svg" alt="Laravel">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="Next.js">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="TypeScript">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="Tailwind CSS">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" alt="Linux">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" alt="Arch Linux">
 </p>
 
 **Também tenho experiência/contato com:**
 
-**Mobile:**<br>
+**Mobile:**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&radius=8" alt="React Native">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&radius=8" alt="Dart">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&radius=8" alt="Flutter">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg" alt="React Native">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg" alt="Dart">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg" alt="Flutter">
 </p>
 
-**Linguagens & Frameworks:**<br>
+**Linguagens & Frameworks:**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&radius=8" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&radius=8" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&radius=8" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&radius=8" alt="C">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java">
+  <img width="139" height="30" alt="springboot-m3" src="https://github.com/user-attachments/assets/31f37b01-f7d5-4ce8-a8e6-d6a72bd87f08" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="139" height="30" viewBox="0 0 139 30" role="img" aria-label="Spring Boot"><rect width="139" height="30" rx="15" fill="#C6F4C5"/><circle cx="20" cy="15" r="10.5" fill="#20552B"/><path d="M14 17.7 C15.5 11.5 21 9.3 27 9.7 C25.3 15.5 21.8 20.6 15.3 20.9 C18.6 17.1 21.4 14.5 24.5 12.7" fill="#C6F4C5" stroke="#C6F4C5" stroke-width=".7" stroke-linecap="round"/></svg>
+
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" alt="C">
 </p>
 
-**Dados:**<br>
+**Dados:**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&radius=8" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&radius=8" alt="OracleSQL">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&radius=8" alt="Firebase">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle2.svg" alt="Oracle">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg" alt="Firebase">
 </p>
 
 ### 📊 Atividade no GitHub
@@ -113,16 +120,16 @@ Sou **Felipe Kitamoto Amaral**, estudante de **Ciência da Computação na Unive
 
 <br clear="right">
 
-<div align="center">
+---
 
 ### 📫 Vamos conversar?
 
 <p>
   <a href="https://www.linkedin.com/in/felipe-kitamoto-amaral/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn">
   </a>
   <a href="mailto:felipe.k.amaral.dev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" alt="Gmail">
   </a>
 </p>
 
